@@ -10,6 +10,8 @@ Each Key Reference is added to the article in the Publishing tab of the Joomla A
 
 This would then produce a help url of https://www.joomlacontenteditor.net/index.php?option=com_content&view=article&task=findkey&lang=en&keyref=editor.about
 
+### Custom Help Site URL
+
 When using a custom help site url, an alternative approach to finding help articles is to use a SEF URL for each article, where the help system will use your custom url with the keywords appended based on a pattern of your choosing, eg:
 
 https://www.joomlacontenteditor.net/docs/editor/about or https://www.joomlacontenteditor.net/docs/editor-about
