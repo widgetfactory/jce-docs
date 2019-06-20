@@ -22,7 +22,9 @@ Using this syntax, the last keyword represents a specific article, and the prece
 
 This repository is structured so that each folder represents a category or sub-category, and the contents of each article is located within an md file. You can use this structure as the basis for a custom help site.
 
-By default, the JCE Help dialog will load these articles using the Joomla Key Reference system, where the keyword is appended to the help url as the value of the _keyref_ parameter, for example:
+### Key Reference
+
+By default, the JCE Help dialog will search for an article using the Joomla Key Reference system, where the keyword is appended to the help url as the value of the _keyref_ parameter, for example:
 
 https://www.joomlacontenteditor.net/index.php?option=com_content&view=article&task=findkey&lang=en&keyref=imgmanager.about
 
