@@ -1,0 +1,5 @@
+- The JCE Editor (all versions) is released under the **[GNU/GPL 2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html "GNU/GPL 2")** or later licence.
+- [TinyMCE](http://tinymce.moxiecode.com) , the javascript wysiwyg editor control included with JCE, is licenced under the**[LGPL 2 licence](http://www.gnu.org/licenses/lgpl-2.1.html " LGPL 2 licence")**
+- The [GetID3](http://getid3.sourceforge.net "GetID3") library is licenced under the GNU/GPL 2 licence.
+- Fugue Icon set are Copyright © [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/). All rights reserved. Licensed under a **[Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/).**
+- jQuery is licenced using the MIT licence - **<http://www.opensource.org/licenses/mit-license.php>**

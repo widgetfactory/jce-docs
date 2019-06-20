@@ -1,0 +1,3 @@
+Profiles can be created by clicking the **New** button in the toolbar above the Profiles list or an existing profile edited by clicking on its name in the Profiles list, or by selecting it and clicking the **Edit** button in the toolbar. Profiles can also be created by copying an existing profile using the **Copy** button, or importing exported profiles.
+
+The **Edit Profile** screen includes four tabbed areas where the properties of the profile can be set. When creating a new profile a default set of values is used.

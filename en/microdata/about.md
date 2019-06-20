@@ -1,0 +1,3 @@
+The Microdata add-on provides an interface for creating **[Microdata](http://en.wikipedia.org/wiki/Microdata_(HTML))** on text and element (images, links etc.) selections using a list of Microdata Item Types and related Item Properties from <http://schema.rdfs.org/>[](schema.rdfs.org)
+
+For more information on Microdata, please see the **[Wikipedia](http://en.wikipedia.org/wiki/Microdata_(HTML) "Wikipedia - Microdata")** entry or the Google **[About Microdata](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=176035 "Google - About Microdata")** page.
