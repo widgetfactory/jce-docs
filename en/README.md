@@ -16,6 +16,8 @@ When using a custom help site url, an alternative approach to finding help artic
 
 https://www.joomlacontenteditor.net/docs/editor/about or https://www.joomlacontenteditor.net/docs/editor-about
 
+The pattern is specified in the configuarion using the syntax ```$1/$2/$3``` where each variable is replaced with the associated keyword. In this example the delimeter / is used, but this is optional and can be replaced with any [RFC 1738](http://www.faqs.or/rfcs/rfc1738.html) compliant character, eg: ```$1-$2-$3```
+
 ### Repository layout
 
 This repository is organized by category, sub-category and article, and can therefore be used as a basis for a custom help site.
