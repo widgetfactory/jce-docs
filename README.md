@@ -34,8 +34,12 @@ To use this method of defining help articles, each keyowrd is added as a Key Ref
 
 ### Custom Help Site URL
 
+**Please Note: The following is only supported in JCE 2.8.0 and later versions.**
+
 When using a custom help site url, an alternative approach to finding help articles is to use a SEF URL for each article, where the help system will use your custom url with the keywords appended based on a pattern of your choosing, eg:
 
 https://www.joomlacontenteditor.net/docs/editor/about or https://www.joomlacontenteditor.net/docs/editor-about
 
 The pattern is specified in the configuarion using the syntax ```$1/$2/$3``` where each variable is replaced with the associated keyword. In this example the delimeter / is used, but this is optional and can be replaced with any [RFC 1738](http://www.faqs.or/rfcs/rfc1738.html) compliant character, eg: ```$1-$2-$3```
+
+
