@@ -28,7 +28,7 @@ By default, the JCE Help dialog will search for an article using the Joomla Key 
 
 https://www.joomlacontenteditor.net/index.php?option=com_content&view=article&task=findkey&lang=en&keyref=imgmanager.about
 
-To use this method of defining help articles, each keyowrd is added as a Key Reference for the article in the Publishing tab of the Joomla Article Manager, when the article is created.
+To use this method of defining help articles, each keyword is added as a Key Reference for the article in the Publishing tab of the Joomla Article Manager, when the article is created.
 
 ![](https://cdn.joomlacontenteditor.net/images/github/docs/editor-about.png)
 
