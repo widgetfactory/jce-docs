@@ -45,7 +45,9 @@ The pattern is specified in the configuarion using the syntax ```$1/$2/$3``` whe
 The variables in the examples above map to:
 
 **$1** - *editor*
+
 **$2** - *about*
+
 **$3** - not used or assigned
 
 
